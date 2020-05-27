@@ -1,13 +1,13 @@
 name: "QuantEcology"
 title: "Quantitative Ecology in Practice"
-description: |
+description:
   Quantitative Ecology in Practice
+base_url: https://yeisjohn.github.io
 collections:
   posts:
     disqus: reproducible-finance-with-r
     share: [twitter, linkedin]
-base_url: https://quantecology.com
-output_dir: "docs"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
