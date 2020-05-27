@@ -10,10 +10,12 @@ collections:
 output_dir: "."
 navbar:
   right:
-    - text: "Home"
+    - text: "Blog"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Research"
+      href: research.html
 output:
   distill::distill_article:
     css: styles.css

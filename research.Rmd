@@ -1,0 +1,27 @@
+---
+title: "John's Research"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Wildife in Working Lands
+
+Lands used to produce food and goods—working lands—are home a substantial portion of the world's biodiversity. To keep up with the growing needs of human populations, working lands are expanding and intensifying, often simultaneously. It is important that we understand how these processes moderate wildlife population dynamics. We have a good idea of how conservation on working lands influences wildlife at local scales. Typically, conservation measures improve habitat quality for target species and may result in greater local abundances. What we know less about is the degree to which these local effects scale up to the population level. My focus has been on estimating landscape-scale effects of conservation on bird populations in grassland and forested ecosystems. The major components of this work include broad-scale study design (e.g., across the southeast), landscape ecology, habitat management, advanced distance sampling methods, spatially explicit decision support tools, and fostering partnerships across different agencies.
+
+Relevant projects:
+
+
+I. Working Lands for Wildlife–Pine Savanna Project for Bobwhite: Does it contribute to National Bobwhite Conservation Initiative Population Goals?
+
+II. Study of Population Response of Bobwhite to the Conservation Reserve Program within the NBCI
+Coordinated Implementation Program
+
+III. Landscape-scale Effects of the Conservation Reserve Enhancement Program on Grassland Bird Populations in Kentucky.
+
+IV. Response of Grassland Birds to Oil and Gas Development in South Texas.
+
