@@ -1,0 +1,5 @@
+---
+title: "Quantitative Ecology in Practice"
+site: distill::distill_website
+listing: posts
+---

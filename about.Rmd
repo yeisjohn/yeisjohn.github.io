@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Author
+
+This blog is written and maintained by John Yeiser using the *distill* package in R. John is a post-doc at the University of Georgia in the Game Animal and Managed Ecosystems lab. You can learn more about John's research [here](https://johnyeiser.wixsite.com/main). 
+
+### Purpose
+
+The purpose of this blog is provide students, educators, and practitioners R code that can be used to apply quantitative ecology to environmental problems. There is a heavy slant towards applied quantitative ecology in this blog.

@@ -1,0 +1,35 @@
+[
+  {
+    "path": "posts/2020-04-22-test1/",
+    "title": "TEST1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "John Yeiser",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-04-22",
+    "categories": [
+      "R",
+      "Google Earth Engine"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-22T17:04:59-04:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Quantitative Ecology in Practice",
+    "description": "Welcome to our new blog, Quantitative Ecology in Practice. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "John Yeiser",
+        "url": "https://johnyeiser.wixsite.com/main"
+      }
+    ],
+    "date": "2020-04-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-26T20:53:42-04:00"
+  }
+]
