@@ -4,11 +4,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ### Author
 This blog is written and maintained by John Yeiser using the *distill* package in R. 
 
@@ -18,3 +13,10 @@ You can learn more about his research by clicking on the "Research" link in the 
 
 ### Contact 
 yeisjohn@gmail.com
+
+```{r out.width= "25%", out.extra='style="float:right; padding:1px"'}
+knitr::include_graphics("pics/me_awards.jpg")
+```
+
+
+
