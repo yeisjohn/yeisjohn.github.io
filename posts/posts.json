@@ -1,18 +1,18 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Quantitative Ecology in Practice",
-    "description": "Welcome to our new blog, Quantitative Ecology in Practice. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to Quantitative Ecology In Practice",
+    "description": "Welcome to our new blog, Quantitative Ecology In Practice We hope you enjoy \nreading what we have to say!",
     "author": [
       {
         "name": "John Yeiser",
         "url": "https://johnyeiser.wixsite.com/main"
       }
     ],
-    "date": "2020-04-22",
+    "date": "2020-07-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-26T21:41:20-04:00",
-    "input_file": {}
+    "last_modified": "2020-07-24T17:11:14-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]

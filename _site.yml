@@ -5,7 +5,6 @@ description:
 base_url: https://yeisjohn.github.io
 collections:
   posts:
-    disqus: reproducible-finance-with-r
     share: [twitter, linkedin]
 output_dir: "."
 navbar:
