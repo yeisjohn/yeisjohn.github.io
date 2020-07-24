@@ -1,7 +1,14 @@
 ---
-title: "Test"
+title: "This is a test"
+description: |
+  This is a test
+author:
+  - name: John Yeiser 
+    url: https://johnyeiser.wixsite.com/main
+date: 07-24-2020
 output:
-  distill::distill_article
+  distill::distill_article:
+    self_contained: false
 ---
 
 ### This is a test 
