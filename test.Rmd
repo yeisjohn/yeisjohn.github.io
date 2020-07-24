@@ -25,7 +25,7 @@ kable(extab) %>%
 ```
 
 
-Some more text in a paragraph
+Some more text in a paragraph, how now brown cow.
 
 ```{r echo=TRUE, eval=TRUE}
 y <- 3
