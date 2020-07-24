@@ -1,0 +1,21 @@
+---
+title: "Testing 1,2,3"
+description: |
+  A short description of the post.
+author:
+  - name: John Yeiser
+    url: https://johnyeiser.wixsite.com/main
+date: 07-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

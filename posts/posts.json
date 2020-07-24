@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Quantitative Ecology In Practice",
-    "description": "Welcome to our new blog, Quantitative Ecology In Practice We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-07-24-testing-123/",
+    "title": "Testing 1,2,3",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "John Yeiser",
@@ -12,7 +12,7 @@
     "date": "2020-07-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-07-24T17:11:14-04:00",
-    "input_file": {}
+    "last_modified": "2020-07-24T17:23:59-04:00",
+    "input_file": "testing-123.utf8.md"
   }
 ]
