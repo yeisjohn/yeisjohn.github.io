@@ -10,6 +10,7 @@ twitter:
   site: "@JMYeiser"
 output_dir: "."
 navbar:
+  search: true 
   right:
     - text: "Blog"
       href: index.html
