@@ -1,5 +1,5 @@
 ---
-title: "John's Research"
+title: "John Yeiser's Research"
 output:
   distill::distill_article:
     self_contained: false
@@ -11,7 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Wildife in Working Lands
 
-Lands used to produce food and goods—working lands—are home a substantial portion of the world's biodiversity. To keep up with the growing needs of human populations, working lands are expanding and intensifying, often simultaneously. It is important that we understand how these processes moderate wildlife population dynamics. We have a good idea of how conservation on working lands influences wildlife at local scales. Typically, conservation measures improve habitat quality for target species and may result in greater local abundances. What we know less about is the degree to which these local effects scale up to the population level. My focus has been on estimating landscape-scale effects of conservation on bird populations in grassland and forested ecosystems. The major components of this work include broad-scale study design (e.g., across the southeast), landscape ecology, habitat management, advanced distance sampling methods, spatially explicit decision support tools, and fostering partnerships across different agencies.
+Lands used to produce food and goods are home a substantial portion of the world's biodiversity. To keep up with the growing needs of human populations, working lands are expanding and intensifying, often simultaneously. It is important that we understand how these processes moderate ecosystem services, biodiversity, and outdoor recreation opportunities. 
+
+We have a good idea of how conservation on working lands influences wildlife at local scales. Typically, conservation measures improve habitat quality for target species at the parcel scale and may result in greater local abundances. What we know less about is the degree to which these benefits permeate into the landscape through population-level processes. My focus has been on estimating the landscape-scale effects of conservation on bird populations in grassland and forested ecosystems. 
+
+The major components of this work include broad-scale study design, landscape ecology, habitat management, advanced distance sampling methods, spatially explicit decision support tools, and fostering partnerships across different agencies.
 
 ### Applied Landscape Ecology
 
