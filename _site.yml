@@ -6,6 +6,8 @@ base_url: https://yeisjohn.github.io
 collections:
   posts:
     share: [twitter, linkedin]
+twitter:
+  site: "@JMYeiser"
 output_dir: "."
 navbar:
   right:

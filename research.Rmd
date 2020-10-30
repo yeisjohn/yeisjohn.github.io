@@ -13,9 +13,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Lands used to produce food and goods are home a substantial portion of the world's biodiversity. To keep up with the growing needs of human populations, working lands are expanding and intensifying, often simultaneously. It is important that we understand how these processes moderate ecosystem services, biodiversity, and outdoor recreation opportunities. 
 
-We have a good idea of how conservation on working lands influences wildlife at local scales. Typically, conservation measures improve habitat quality for target species at the parcel scale and may result in greater local abundances. What we know less about is the degree to which these benefits permeate into the landscape through population-level processes. My focus has been on estimating the landscape-scale effects of conservation on bird populations in grassland and forested ecosystems. 
+We have a good idea of how conservation on working lands influences wildlife at local scales. Typically, conservation measures improve habitat quality for target species at the parcel scale and may result in greater local abundances. We know less about the degree to which these effects permeate into the landscape via population-level processes (e.g., dispersal). My focus has been on estimating the landscape-scale effects of conservation on bird populations in agricultural ecosystems. 
 
-The major components of this work include broad-scale study design, landscape ecology, habitat management, advanced distance sampling methods, spatially explicit decision support tools, and fostering partnerships across different agencies.
+Major themes: broad-scale study design; landscape ecology; advanced distance sampling models; machine learning; habitat management; spatially explicit decision support tools; fostering partnerships
+
+#### Projects
+
+#### 1. Prioritizing grassland conservation for birds in agricultural landscapes
+
+
 
 ### Applied Landscape Ecology
 

@@ -1,22 +1,24 @@
 ---
-title: "About"
+title: "John Yeiser"
+description: "He/Him/His"
 output:
   distill::distill_article:
     self_contained: false
 ---
-### Author
-This blog is written and maintained by John Yeiser using the *distill* package in R. 
+<!-- <img src="pics/me_awards.jpg" style="margin: 0; width: 25%; float:right; border:2px solid gray" /> -->
 
-John is currently a post-doc at the University of Georgia. John works in the Martin Game Animal and Managed Ecosystem Lab, where he also got his PhD. He works with state and federal agencies to design, implement, and monitor broad-scale wildlife conservation. Before starting at UGA, John worked as a Wildlife Biologist for the state of Kentucky. 
+John is currently a post-doc at the University of Georgia in the Martin Game Animal and Managed Ecosystems (GAME) lab, where he also got his PhD. He partners with state and federal agencies to design broad-scale monitoring projects, analyze big data, and inform conservation decision-making. Before starting UGA, John worked as a Wildlife Biologist for the state of Kentucky.
 
 You can learn more about his research by clicking on the "Research" link in the site header.
+
+John maintains this website using the *distill* package in R. 
 
 ### Contact 
 yeisjohn@gmail.com
 
-```{r out.width= "25%", out.extra='style="float:right; padding:1px"'}
-knitr::include_graphics("pics/me_awards.jpg")
-```
+
+
+
 
 
 
