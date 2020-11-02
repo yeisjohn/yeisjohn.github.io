@@ -19,7 +19,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: JohnYeiser_June2020.pdf
+      href: docs/ShortCV_YeiserJohn_202011.pdf
 output:
   distill::distill_article:
     css: styles.css

@@ -10,7 +10,7 @@ bibliography: bibtex/website.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Broadly, I am an applied quantitative ecologist. I use advanced statistical methods, landscape ecology, population ecology, and decision science to inform broad-scale management and conservation. I'm extremely fortunate to work in a lab (the Martin GAME lab) that partners with state, federal, and non-government organizations to address pressing conservation issues. 
+Broadly, I am an applied quantitative ecologist. I use advanced statistical methods, landscape ecology, population ecology, and decision science to inform broad-scale management and conservation. I'm extremely fortunate to work in a lab (the Martin GAME lab at the University of Georgia®) that partners with state, federal, and non-government organizations to address pressing conservation issues. 
 
 My primary research questions are: 
 
@@ -18,14 +18,243 @@ My primary research questions are:
 2. How do we optimize game species management to meet stakeholder objectives?
 3. How do we best bridge the gap between research and conservation action?
 
-The central themes of my research are broad-scale study design, population estimation, adaptive resource management, applied landscape ecology, applied simulation modeling, and remote sensing. The setting for my research is primarly working landscapes and publicly owned management areas.
+The central themes of my research are *broad-scale study design, population estimation, adaptive resource management, applied landscape ecology, applied simulation modeling, and remote sensing*. The setting for my research is primarly working landscapes and publicly wildlife management areas.
 
-### Projects
-1. Understanding grassland bird population dynamics in working landscapes [@Yeiser2018JAE;@Yeiser2020EI;@YeiserRevisionConBio]
 
-```{r echo=FALSE}
+### Where does John do research?
+```{r echo=FALSE, layout="l-screen-inset"}
 knitr::include_graphics("R/output/YeiserProjectMap.png")
 ```
+### Publications (colors correspond to the above map)
+<style>
+div.dot9E0142 {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(158,1,66,1);}
+div.dotCA314C {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(202,49,76,1);}
+div.dotF88D51 {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(248,141,81,1);}
+div.dotFDBC6D {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(251,205,109,1);}
+div.dotFFFFBF {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(255,255,191,1);}
+div.dotFEE965 {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(254,230,149,1);}
+div.dotBCE4A0 {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(188,228,160,1);}
+div.dotEBF79F {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(235,247,159,1);}
+div.dot56B0AC {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(86,176,172,1);}
+div.dot3A7CB7 {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(58,124,183,1);}
+div.dotBLANK {fload:left; width: 15px; height: 15px; margin: -22px; background-color:rgba(0,0,0,0);}
+</style>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotEBF79F"></div>
+</div>
+<div class='column' width=95%>
+*In preperation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, and J. A. Martin. Targeted landscape-scale management
+improves effectiveness of private land conservation. Target: Journal of Wildlife Management
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotEBF79F"></div>
+</div>
+<div class='column' width=95%>
+*In preperation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, J. Howell, and J. A. Martin. A framework for eliciting
+expert opinion on regional variation in habitat quality. Target: Human Dimensions of
+Wildlife.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dot3A7CB7"></div>
+</div>
+<div class='column' width=95%>
+*In preperation*. <b>J. M. Yeiser</b>, Martin, J. A., J. Giocomo, A. Matthews, P. E. Howell, and G. Wann. Avian community response to energy development with implications for landscape-scale conservation planning. Target: Conservation Biology.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotFEE965"></div>
+</div>
+<div class='column' width=95%>
+*Under revision: Conservation Biology*. <b>Yeiser, J. M.</b>, J. J. Morgan, D. L. Baxley, R. B. Chandler, and J. A. Martin. Optimizing
+conservation in species-specific agricultural landscapes.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotBLANK"></div>
+</div>
+<div class='column' width=95%>
+*Invited review, under revision: Current Landscape Ecology Reports*. <b>Yeiser, J. M.</b>, R. B. Chandler, and J. A. Martin. Distance-dependent landscape effects in terrestrial systems: a review and a proposed spatio-temporal framework.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotBLANK"></div>
+</div>
+<div class='column' width=95%>
+Martin, J. A. and <b>J. M. Yeiser</b>. 2021. Wildlife management and the roots of landscape ecology. In Porter, W. F., C. J. Parent, R. A. Stewart, and D. M. Williams, editors. Wildlife management and landscapes: principles and applications. Johns Hopkins University Press in affiliation with The Wildlife Society, Baltimore, MD, USA. *In Press*.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotBLANK"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, P. E. Howell, G. T. Wann, and J. A. Martin. 2020. Addressing temporal variation in bird calling with design and estimation: a northern bobwhite example. Journal of Wildlife Management: *In press*.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dot56B0AC"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, A. L. Jackson, D. C. Sisson, T. M. Terhune, and J. A. Martin. 2020. Predation management and spatial structure moderate extirpation risk and harvest of northern bobwhite. Journal of Wildlife Management: *In press*.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotCA314C"></div>
+</div>
+<div class='column' width=95%>
+  Wann, G. P. E. Howell, <b>J. M. Yeiser</b>, and J. A. Martin. 2020. Estimating harvest rate and the effects of hunting pressure on northern bobwhite survival. Wildlife Biology 2:1–11.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotFEE965"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, J. J. Morgan, D. L. Baxley, and J. A. Martin. 2020. Variability in the management of agricultural fields spared for conservation. Ecological Indicators 114:106303.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotEBF79F"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, J. A. Martin, T. V. Dailey, and M. Foley. 2019. Efficiency of the Conservation Reserve Program in context of focused landscape management for northern bobwhites and associated species. Final Report for the Farm Service Agency.
+</div>
+</div>
+
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotFEE965"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, J. J. Morgan, D. L. Baxley, R. B. Chandler, and J. A. Martin. 2018. Private land conservation has landscape-scale benefits for wildlife in agroecosystems. Journal of Applied Ecology 55 (4), 1930–1939.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dot3A7CB7"></div>
+</div>
+<div class='column' width=95%>
+Martin, J. A., <b>J. M. Yeiser</b>, and R. B. Chandler. 2017. Uncertainty and entanglement of habitat loss and fragmentation effects in the management of northern bobwhites and eastern meadowlarks. Final Report for the Gulf Prairie Landscape Conservation Cooperative.
+</div>
+</div>
+
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotFDBC6D"></div>
+</div>
+<div class='column' width=95%>
+Orange, J. P., <b>J. M. Yeiser</b>, D. L. Baxley, J. J. Morgan, and B. A. Robinson. 2017. Evaluating bird type and dog exposure on Northern Bobwhite hunter success on a reclaimed mineland in Kentucky. Quail VIII: Proceedings of the Eighth National Quail Symposium.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dot9E0142"></div>
+</div>
+<div class='column' width=95%>
+Morgan, J. M., <b>J. M. Yeiser</b>, D. L. Baxley, G. Sprandel, B. A. Robinson, and K. Wethington. 2017. A focused habitat approach for Northern Bobwhite restoration in Kentucky. Quail VIII: Proceedings of the Eighth National Quail Symposium.</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotBCE4A0"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, D. L. Baxley, B. A. Robinson, J. J. Morgan, J. N. Stewart, and J. O. Barnard. 2016. A comparison of coal mine reclamation seed mixes in Kentucky: implications for grassland establishment in Appalachia. International Journal of Mining Reclamation and Environment 30:257–267.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotF88D51"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, and S. C. Richter. 2015. Microhabitat conditions influence mesohabitat associations and distribution of larval salamanders in headwater streams. Hydrobiologia 751:175–187.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotFFFFBF"></div>
+</div>
+<div class='column' width=95%>
+<b>Yeiser, J. M.</b>, D. L. Baxley, B. Robinson, and J. Morgan. 2015. Using prescribed fire and herbicide to manage rank native warm season grass for northern bobwhite. Journal of Wildlife Management 79:69–76.
+</div>
+</div>
+
+<br>
+
+<div class='row'>
+<div class='column'>
+  <div class="dotBLANK"></div>
+</div>
+<div class='column' width=95%>
+Nunziata, S. O, S. C. Richter, R. D. Denton, <b>J. M. Yeiser</b>, D.E. Wells, K. L. Jones, C. Hagen, and S. L. Lance. 2012. Fourteen novel microsatellite markers for the gopher frog, Lithobates capito (Amphibia: Ranidae). Conservation Genetics Resources 4:201–203.
+</div>
+</div>
+
+
 <!-- ### Wildife in Working Lands -->
 
 <!-- Lands used to produce food and goods are home a substantial portion of the world's biodiversity. To keep up with the growing needs of human populations, working lands are expanding and intensifying, often simultaneously. It is important that we understand how these processes moderate ecosystem services, biodiversity, and outdoor recreation opportunities.  -->
