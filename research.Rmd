@@ -10,7 +10,7 @@ bibliography: bibtex/website.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Broadly, I am an applied quantitative ecologist. I use advanced statistical methods, landscape ecology, population ecology, and decision science to inform broad-scale management and conservation. I'm extremely fortunate to work in a lab (the Martin GAME lab at the University of Georgia®) that partners with state, federal, and non-government organizations to address pressing conservation issues. 
+Broadly, I am an applied quantitative ecologist. I use advanced statistical methods, landscape ecology, population ecology, and decision science to inform broad-scale management and conservation. I'm extremely fortunate to work in a lab (the Martin GAME lab at the University of Georgia) that partners with state, federal, and non-government organizations to address pressing conservation issues. 
 
 My primary research questions are: 
 
