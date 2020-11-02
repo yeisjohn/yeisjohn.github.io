@@ -45,7 +45,7 @@ Use simulations to determine the bias and precision of density estimated with:
 We simulated bobwhite populations within a fictitious ~25,000 acre area and randomly selected 35 distance sampling point count locations. We simulated the observation process for 5 years with 3 visits per year and allowed for random variation among years and visits. We used literature and our experience with monitoring to set a range of detection rates and calling rates typical for bobwhite populations. We set density within the area to begin at ~0.25 birds per acre (assuming 11 bird coveys) and grow by 5% each year. 
 
 
-```{r layout = 'l-body', fig.cap="An example of a 0.25 bird/acre bobwhite population in a fictitious 25,000 acre area. The number of coveys detected in any one sampling visit depends on sampling effort, detection probability, and calling rate. In this example, about 29% of the area is being sampled. In one visit, 49 out of the 138 coveys present in the sampling area were detected."}
+```{r layout = 'l-body', preview=TRUE, fig.cap="An example of a 0.25 bird/acre bobwhite population in a fictitious 25,000 acre area. The number of coveys detected in any one sampling visit depends on sampling effort, detection probability, and calling rate. In this example, about 29% of the area is being sampled. In one visit, 49 out of the 138 coveys present in the sampling area were detected."}
 knitr::include_graphics("BobwhiteSamplingSim.png")
 ```
 
