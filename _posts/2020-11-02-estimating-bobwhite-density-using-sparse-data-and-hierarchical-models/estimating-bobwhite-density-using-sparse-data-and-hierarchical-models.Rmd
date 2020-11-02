@@ -8,7 +8,6 @@ date: 11-02-2020
 output:
   distill::distill_article:
     self_contained: false
-draft: true
 bibliography: bibtex/website.bib
 ---
 
