@@ -10,7 +10,7 @@ John is currently a post-doc at the University of Georgia in the Martin Game Ani
 
 You can learn more about his research by clicking on the "Research" link in the site header.
 
-John maintains this website using the *distill* package in R. 
+John maintains this website using the *distill* package in RMarkdown. 
 
 ### Contact 
 yeisjohn@gmail.com
