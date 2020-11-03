@@ -47,7 +47,7 @@ div.dotBLANK {fload:left; width: 15px; height: 15px; margin: -22px; background-c
   <div class="dotEBF79F"></div>
 </div>
 <div class='column' width=95%>
-*In preperation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, and J. A. Martin. Targeted landscape-scale management
+*In preparation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, and J. A. Martin. Targeted landscape-scale management
 improves effectiveness of private land conservation. Target: Journal of Wildlife Management
 </div>
 </div>
@@ -59,7 +59,7 @@ improves effectiveness of private land conservation. Target: Journal of Wildlife
   <div class="dotEBF79F"></div>
 </div>
 <div class='column' width=95%>
-*In preperation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, J. Howell, and J. A. Martin. A framework for eliciting
+*In preparation*. <b>Yeiser, J. M.</b>, T. Dailey, M. Foley, J. Howell, and J. A. Martin. A framework for eliciting
 expert opinion on regional variation in habitat quality. Target: Human Dimensions of
 Wildlife.
 </div>
@@ -72,7 +72,7 @@ Wildlife.
   <div class="dot3A7CB7"></div>
 </div>
 <div class='column' width=95%>
-*In preperation*. <b>J. M. Yeiser</b>, Martin, J. A., J. Giocomo, A. Matthews, P. E. Howell, and G. Wann. Avian community response to energy development with implications for landscape-scale conservation planning. Target: Conservation Biology.
+*In preparation*. <b>J. M. Yeiser</b>, Martin, J. A., J. Giocomo, A. Matthews, P. E. Howell, and G. Wann. Avian community response to energy development with implications for landscape-scale conservation planning. Target: Conservation Biology.
 </div>
 </div>
 
