@@ -23,7 +23,7 @@ The central themes of my research are *broad-scale study design, population esti
 
 ### Where does John do research?
 ```{r echo=FALSE, layout="l-screen-inset"}
-knitr::include_graphics("R/output/YeiserProjectMap.png")
+knitr::include_graphics("pics/YeiserProjectMap.png")
 ```
 ### Publications (colors correspond to the above map)
 <style>
