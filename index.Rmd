@@ -1,5 +1,23 @@
 ---
-title: "Quantitative Ecology In Practice"
-site: distill::distill_website
-listing: posts
+title: "John Yeiser"
+description: "He/Him/His"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+<!-- <img src="pics/me_awards.jpg" style="margin: 0; width: 25%; float:right; border:2px solid gray" /> -->
+John is currently a post-doc at the University of Georgia in the Martin Game Animal and Managed Ecosystems (GAME) lab, where he also got his PhD. He partners with colleagues at UGA and natural resource management agencies to design broad-scale monitoring projects, analyze big data, and inform conservation decision-making. Before starting UGA, John worked as a Wildlife Biologist for the state of Kentucky.
+
+You can learn more about his research by clicking on the "Research" link in the site header.
+
+John maintains this website using the *distill* package in RMarkdown. 
+
+### Contact 
+yeisjohn@gmail.com
+
+
+
+
+
+
+
