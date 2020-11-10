@@ -12,6 +12,9 @@
       <dc:creator>John Yeiser</dc:creator>
       <link>https://yeisjohn.github.io/posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models</link>
       <description>Estimating bird density using sparse count data and hierarchical models</description>
+      <category>bobwhite</category>
+      <category>simulations</category>
+      <category>models</category>
       <guid>https://yeisjohn.github.io/posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models</guid>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://yeisjohn.github.io/posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models/BobwhiteSamplingSim.png" medium="image" type="image/png" width="2999" height="1618"/>

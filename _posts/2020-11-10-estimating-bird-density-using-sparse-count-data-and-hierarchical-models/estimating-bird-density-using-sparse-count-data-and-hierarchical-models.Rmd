@@ -1,6 +1,10 @@
 ---
 title: "Estimating bird density using sparse count data and hierarchical models"
 description: |
+categories:
+  - bobwhite
+  - simulations
+  - models
 author:
   - name: John Yeiser
     url: https://johnyeiser.wixsite.com/main
