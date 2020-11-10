@@ -3,3 +3,4 @@ title: "Quantitative Ecology In Practice"
 site: distill::distill_website
 listing: posts
 ---
+<meta name="google-site-verification" content="cysbxl8DZ2zP8ByQP2tYBoo4jLalRPBWsL70i-cDNvY" />
