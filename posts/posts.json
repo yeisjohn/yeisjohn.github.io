@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2020-11-02-estimating-bobwhite-density-using-sparse-data-and-hierarchical-models/",
+    "path": "posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models/",
     "title": "Estimating bird density using sparse count data and hierarchical models",
     "description": {},
     "author": [
@@ -11,9 +11,9 @@
     ],
     "date": "2020-11-02",
     "categories": [],
-    "preview": "posts/2020-11-02-estimating-bobwhite-density-using-sparse-data-and-hierarchical-models/BobwhiteSamplingSim.png",
-    "last_modified": "2020-11-10T15:11:22-05:00",
-    "input_file": "estimating-bobwhite-density-using-sparse-data-and-hierarchical-models.utf8.md",
+    "preview": "posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models/BobwhiteSamplingSim.png",
+    "last_modified": "2020-11-10T15:23:29-05:00",
+    "input_file": "estimating-bird-density-using-sparse-count-data-and-hierarchical-models.utf8.md",
     "preview_width": 2999,
     "preview_height": 1618
   }
