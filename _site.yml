@@ -10,7 +10,6 @@ twitter:
   site: "@JMYeiser"
 output_dir: "."
 navbar:
-  search: true 
   right:
     - text: "Blog"
       href: index.html
@@ -20,6 +19,7 @@ navbar:
       href: research.html
     - text: "CV"
       href: docs/ShortCV_YeiserJohn_202011.pdf
+  search: true
 output:
   distill::distill_article:
     css: styles.css
