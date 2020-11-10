@@ -1,6 +1,7 @@
 ---
 title: "Estimating bird density using sparse count data and hierarchical models"
 description: |
+  In this post we compare a few approaches to estimating northern bobwhite density in the fall. Even on a modest sample size, we can use hierarchical models to estimate bobwhite fall densities accurately and precisely. Models offer better return on investment over time compared to quick-and-easy correction factors.
 categories:
   - bobwhite
   - simulations

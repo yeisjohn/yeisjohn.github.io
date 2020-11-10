@@ -11,7 +11,7 @@
       <title>Estimating bird density using sparse count data and hierarchical models</title>
       <dc:creator>John Yeiser</dc:creator>
       <link>https://yeisjohn.github.io/posts/2020-11-10-estimating-bird-density-using-sparse-count-data-and-hierarchical-models</link>
-      <description>Estimating bird density using sparse count data and hierarchical models</description>
+      <description>In this post we compare a few approaches to estimating northern bobwhite density in the fall. Even on a modest sample size, we can use hierarchical models to estimate bobwhite fall densities accurately and precisely. Models offer better return on investment over time compared to quick-and-easy correction factors.</description>
       <category>bobwhite</category>
       <category>simulations</category>
       <category>models</category>

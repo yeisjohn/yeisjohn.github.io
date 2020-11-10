@@ -6,7 +6,6 @@ base_url: https://yeisjohn.github.io
 collections:
   posts:
     share: [twitter, linkedin]
-    categories_metadata: true
 twitter:
   site: "@JMYeiser"
 output_dir: "."
